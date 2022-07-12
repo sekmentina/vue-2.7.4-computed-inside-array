@@ -1,4 +1,4 @@
-<script lang="ts" setup>
+<script setup>
 import { ref, reactive, computed, watch } from 'vue';
 
 const cmp = computed(() => 0);
