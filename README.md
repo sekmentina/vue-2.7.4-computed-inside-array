@@ -1,3 +1,8 @@
-# vitejs-vite-ta4zwn
+Reproduction for vue 2.7.4 bug
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-ta4zwn)
+run
+npm install
+npm run dev
+
+uncomment code in App.vue
+look in console
